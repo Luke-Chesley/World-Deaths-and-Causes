@@ -27,6 +27,14 @@ This does not tell you anything you do not already know. Not sure what happened 
 
 ![drug_use](images/druguse.png)
 
+### Compared to Chinese drug use
+
+This is the cumulative sum of both country's data. This is especially interesting when compared to China's population growth over this period.
+
+![drug_cumsum](images/drugcumsum.png)
+
+
+
 ### 2004 Indian Ocean earthquake and tsunami
 Shows the devastating scale of this natural disaster, also shows 1998 Papua New Guinea earthquake and tsunami. 
 
@@ -47,3 +55,4 @@ Note the difference in the Y-axis.
 ![decreasing](images/decreasing.png)
 
 
+ 
