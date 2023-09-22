@@ -37,3 +37,13 @@ Something tells me the way greenland reports exposure deaths is to report whatev
 
 
 ![exposure](images/exposure.png)
+
+### Worldwide increasing and decreasing causes of death
+
+Note the difference in the Y-axis. 
+
+![increasing](images/increasing.png)
+
+![decreasing](images/decreasing.png)
+
+
